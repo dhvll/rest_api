@@ -4,7 +4,10 @@ export default {
   saltWorkFactor: 10,
   accessTokenTtl: '15m',
   refreshTokenTtl: '1y',
-
+  // accessTokenPrivateKey: ``,
+  // accessTokenPublicKey: ``,
+  // refreshTokenPrivateKey: ``,
+  // refreshTokenPublicKey: ``,
   // This key are only for testing purpose
   publicKey: `-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhQHU06MoHU0D8jBvy4K8
